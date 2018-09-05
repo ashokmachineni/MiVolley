@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "873273290992",
+    "firebase_url": "https://machineni-54f19.firebaseio.com",
+    "project_id": "machineni-54f19",
+    "storage_bucket": "machineni-54f19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873273290992:android:49d6279e94c6b284",
+        "android_client_info": {
+          "package_name": "com.example.ashokmachineni.mivolley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873273290992-5bk4aba4jeikg9o3g7f5ijl94411oh9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashokmachineni.mivolley",
+            "certificate_hash": "bb6e89ccdda4ea29ce9892d4ce551c5a8c285d85"
+          }
+        },
+        {
+          "client_id": "873273290992-cfk5670sfktpetpgojckfg55vl4vnl4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuaRr7xw8SeSOzbJwswHmtfWtwl6OJd00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873273290992-cfk5670sfktpetpgojckfg55vl4vnl4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
